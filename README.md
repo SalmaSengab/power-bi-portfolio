@@ -25,6 +25,6 @@ Each project lives in its own folder with the `.pbix` report, the source data, a
 
 ---
 
-## 🙋 Author
+## Author
 
 **Salma Sengab** — Data Analyst
