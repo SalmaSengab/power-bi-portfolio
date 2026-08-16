@@ -1,4 +1,4 @@
-# Job Postings Analysis — Power BI Dashboard
+# Job Postings Analysis | Power BI Dashboard
 
 An interactive Power BI dashboard that analyzes ~17,500 tech/analytics job postings (2017–2021), covering job titles, skills, salaries, company profiles, and experience requirements. Built to help job seekers, recruiters, and analysts explore hiring trends across companies, industries, and roles.
 
