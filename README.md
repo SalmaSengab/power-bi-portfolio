@@ -12,6 +12,7 @@ Each project lives in its own folder with the `.pbix` report, the source data, a
 |---|---|---|---|
 | [`job-postings/`](./Job-Postings-Dashboard) | Analysis of ~17,500 tech/analytics job postings (2017–2021) — job titles, in-demand skills, salaries, and company profiles | `job_postings.csv` | 9 pages: Company, Jobs, Skills, Job Level Analysis, Job Titles, Salary Analysis, Skill Analysis, Skill Likelihood, Experience Analysis |
 | [`sales/`](./Sales-Dashboard) | Sales performance analysis on an AdventureWorks-style dataset (~23,600 order lines, 2011–2014) — revenue, territories, products, and order status | `Sales.xlsx` | 5 pages: Overview (x2), Scatter Plot, Orders, Products |
+| [`Staffing-Performance-Penalty-Dashboard/`](./Staffing-Performance-Penalty-Dashboard) | Staffing analytics dashboard to monitor achievement against staffing commitments, identify operational gaps, and analyze penalty drivers, helping businesses prioritize underperforming departments, improve staffing efficiency, and reduce potential penalties | `synthetic_staffing_data.xlsx` | 3 chapters: Committed vs. Achieved, Penalties, How Bad Is It? |
 
 ---
 
